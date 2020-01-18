@@ -1,7 +1,7 @@
 # buskill-windows
-Windows port for the BusKill Kill Cord
+Windows port for the BusKill Kill Cord written in python by @cyberkryption
 
-[Github](images/busKill_featuredImage.jpg)
+![](images/busKill_featuredImage.jpg)
 
 # Press
 
